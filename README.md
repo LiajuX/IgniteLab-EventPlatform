@@ -13,9 +13,9 @@
  
   <br>
   
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/LiajuX/IgniteLab?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/LiajuX/IgniteLab-EventPlatform?color=green">
     
-  <img alt="Licenset" src="https://img.shields.io/github/license/Liajux/NextLevelWeek-Heat">
+  <img alt="Licenset" src="https://img.shields.io/github/license/Liajux/IgniteLab-EventPlatform">
 </p>
 
 <h3 align="center">
