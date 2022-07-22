@@ -34,7 +34,7 @@
 ## 🚀 Ignite Lab #02 
 Ignite Lab is an event created by [RocketSeat](https://rocketseat.com.br/) to impulse careers and develop a complete application in five days.
 
-This is the 2nd edition, and it's focused on React.JS.
+This is the 2nd edition, and it's focused on ReactJS.
 
 
 <br>
@@ -58,7 +58,7 @@ The project consists of a platform for events such as Ignite Lab.
 <br>
 
 ## 💻 Web
-Developed with React JS, GraphQL, GraphCMS and TypeScript.
+Developed with ReactJS, GraphQL, GraphCMS and TypeScript.
 
 ### 🛠 Technologies
 - **[ReactJS](https://reactjs.org/)**
