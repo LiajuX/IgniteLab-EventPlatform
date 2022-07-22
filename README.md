@@ -24,8 +24,7 @@
 
 <p align="center">
   🎓 <a href="#%EF%B8%8F-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🤖 <a href="#-back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  💻 <a href="#-front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🛠 <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🏁 <a href="#-starting-the-project">Starting</a>
 </p>
 
@@ -43,7 +42,7 @@ This is the 2nd edition, and it's focused on ReactJS.
 
 <br> 
 
-## 🎓 The Project:
+## 💻 The Project:
 
 The project consists of a platform for events such as Ignite Lab.
 
@@ -57,10 +56,9 @@ The project consists of a platform for events such as Ignite Lab.
 
 <br>
 
-## 💻 Web
+### 🛠 Technologies
 Developed with ReactJS, GraphQL, GraphCMS and TypeScript.
 
-### 🛠 Technologies
 - **[ReactJS](https://reactjs.org/)**
 - **[GraphQL](https://graphql.org/)**
 - **[GraphCMS](https://app.graphcms.com/)**
