@@ -38,7 +38,8 @@ This is the 2nd edition, and it's focused on ReactJS.
 
 <br>
 
-**🎓  Instructor:** [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)
+**🎓  Instructor:** [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)<br>
+🎨  Layout made in [Figma](https://www.figma.com/) by Jonas Milan ([@jonasmilancc](https://www.instagram.com/jonasmilancc/))<br>
 
 <br> 
 
